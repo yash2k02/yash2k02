@@ -12,7 +12,7 @@
 <p dir="auto">🌱 I’m currently learning <strong>Java, Spring</strong></p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about <strong>Android , MEARN</strong></p>
+<p dir="auto">💬 Ask me about <strong>JavaScript , SQL </strong></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong></strong><strong><a href="pardeshiyashjunior2002@gmail.com">pardeshiyashjunior2002@gmail.com</a></strong></p>
