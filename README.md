@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yash Pardeshi</h1>
 <h3 align="left">Aspiring Software Developer</h3>
           
-<img align="right" alt="Coding" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=300 style="display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=300 style="display: inline-block;" data-target="animated-image.originalImage">
 
 <ul dir="auto">
 <li>
