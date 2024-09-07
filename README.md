@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yash Pardeshi</h1>
 <h3 align="left">Aspiring Software Developer</h3>
           
-<img align="right" alt="Coding" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 ](https://i.pinimg.com/originals/cf/51/ad/cf51ad748537f4ea6899ab44388ad110.gif)" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=300 style="display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=300 style="display: inline-block;" data-target="animated-image.originalImage">
 
 <ul dir="auto">
 <li>
